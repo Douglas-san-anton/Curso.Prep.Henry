@@ -1,0 +1,11 @@
+Conceptos de javascript explicados a un niño de 12 años!!
+
+Variable: es una caja donde puedes guardar datos (los datos son informacion). A esta variable (que es una caja) se le pone un nombre que te guste o que te ayude a saber que guardaste ahi, (ya sean datos como, fechas, nombres, cuentas y mucho mas).
+
+Strings: son letras que estan unidas por una cuerda invisible que ayudan a formar palabras o palabras clave. Estos Strings (conjunto de letras), los vas a diferenciar por que siempre van entre comillas simples o dobles.
+
+Funciones: son las ordenes que te da algun familiar, en esta orden tenemos argumentos que serian que quiere la persona que vos hagas y la respuesta o resultado de hacerle caso se llama return. Supongamos que tu papa te pide que limpies tu dormitorio no?, el dormitorio es el nombre de la funcion (osea el lugar que tenes que limpiar es tu dormitorio), limpiar seria el argumento( lo que quiere que hagas en ese lugar) y return es la respuesta que te da tu papa si le hiciste caso o no.
+
+Declaraciones if: es cuando tomamos una accion y esperamos un resultado, pero en esta accion le pusimos condiciones (que se le llama if). Supongamos que jugamos a tirar una piedra y el que llega mas lejos gana, bueno el if seria la condicion si yo tiro la piedra mas lejos que vos gano, o if(que seria si) si vos la tiras mas lejos que yo ganas. Entonces como la declaracion se termino, jugamos y esperamos el resultado.
+
+Valores booleanos true,false: es una afirmacion que pueden ser verdad o falsa. Un ejemplo seria si tocas el fuego te quemas, por lo que esa afirmacion es verdadera, si alguien dice que el fuego no quema esa afirmacion es falsa.
